@@ -1,2 +1,2 @@
-# Hello_World_C & C++
+# Hello_C_C++
 My first git for what I learned
